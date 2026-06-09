@@ -9,7 +9,7 @@
 
 ## Why I Chose This Issue
 
-I chose this issue because it invovles AWS, Docker, and infrastructure as code. Since the issue is about exposing ```push``` optionin ```aws.ecr.Image`, it feels like a good first contribution that is useful but still realistic for me to take on.
+I chose this issue because it invovles AWS, Docker, and infrastructure as code. Since the issue is about exposing ```push``` optionin ```aws.ecr.Image```, it feels like a good first contribution that is useful but still realistic for me to take on.
 
 ---
 
