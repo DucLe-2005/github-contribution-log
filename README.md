@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: ecr.Image: expose pulumi-docker-build Image.push property
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** Duc Le  
+**Issue:** [[GitHub issue link] ](https://github.com/pulumi/pulumi-awsx/issues/1743) 
+**Status:** [Phase I - Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it invovles AWS, Docker, and infrastructure as code. Since the issue is about exposing ```push``` optionin ```aws.ecr.Image`, it feels like a good first contribution that is useful but still realistic for me to take on.
 
 ---
 
